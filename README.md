@@ -22,19 +22,3 @@ The API provides the following Contollers:
 	#Which has this endpoints
 		- `GET /api/products` - get all products
 		- `GET /api/products/{id}` - get a product by id
-
-### API Documentation
-
-Documentation for the API is not currently available.
-
-### Testing
-
-To run the test suite, run `dotnet test`.
-
-### Contributing
-
-If you would like to contribute to the project, please [].
-
-## License
-
-This project is licensed under the [] license.
